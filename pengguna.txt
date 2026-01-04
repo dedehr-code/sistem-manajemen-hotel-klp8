@@ -1,0 +1,5 @@
+PEMILIK|OWNER|CEO|admin@hotelparadise.com|081234567890|admin123|1
+PEGAWAI|PG001|Dede|dede09@gmail.com|081270257163|2400018171|1|Front Office|Pagi|3500000|0
+PELANGGAN|P001|Hermawan|hermawan@gmail.com|081208094523|hermawan09|1|Jalimbar|0|0
+PELANGGAN|P002|Rivaldi|rivaldi@gmail.com|085212345678|123456|1|Jl. Ki Ageng|0|0
+PELANGGAN|P003|Fadhil|fadhil@gmail.com|081345678901|111111|1|Ringroad|0|0

@@ -1,0 +1,13 @@
+BALLROOM|L001|Grand Ballroom|5000000|Per Event|1|1|Kapasitas 500 orang - Cocok untuk wedding & seminar besar
+BALLROOM|L002|Meeting Room Premium|2000000|Per Event|1|1|Kapasitas 100 orang - Untuk meeting & workshop
+RESTAURANT|L003|Fine Dining Prasmanan|200000|Per Orang|1|1|Menu prasmanan internasional - Breakfast, lunch, dinner
+RESTAURANT|L004|A La Carte Premium|150000|Per Orang|1|1|Menu pilihan chef - Makanan kelas dunia
+LAUNDRY|L005|Laundry Service|15000|Per Kg|1|1|Cuci + setrika + pewangi - Selesai 1 hari
+LAUNDRY|L006|Laundry Service|10000|Per Kg|1|1|Cuci + setrika - Selesai 2-3 hari
+KOLAM_RENANG|L007|Swimming Pool Access|50000|Per Hari|1|1|Akses kolam renang seharian - Jam 06:00-22:00
+GYM|L008|Gym & Fitness Center|150000|Per Sesi|1|1|1 sesi gym dengan personal trainer - 1.5 jam
+GYM|L009|Gym & Fitness Center|75000|Per Sesi|1|1|Akses gym tanpa trainer - Unlimited time
+TRANSFER_BANDARA|L010|Airport Transfer|300000|Per Trip|1|1|Antar-jemput bandara dengan sedan - Max 4 pax
+TRANSFER_BANDARA|L011|Airport Transfer|500000|Per Trip|1|1|Antar-jemput bandara dengan van - Max 8 pax
+CATERING|L012|Catering Service|150000|Per Orang|1|20|Paket catering premium untuk event - Min 20 pax
+CATERING|L013|Catering Service|250000|Per Orang|1|50|Paket catering VIP untuk event besar - Min 50 pax

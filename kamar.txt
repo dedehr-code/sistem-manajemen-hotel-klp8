@@ -1,0 +1,25 @@
+STANDARD|K101|DIBERSIHKAN|500000|1|2|0|0|TV LED 32", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas
+STANDARD|K102|TERSEDIA|500000|1|2|0|0|TV LED 32", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas
+STANDARD|K103|TERSEDIA|500000|1|2|0|0|TV LED 32", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas
+STANDARD|K104|TERSEDIA|500000|1|2|0|0|TV LED 32", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas
+STANDARD|K105|TERSEDIA|500000|1|2|0|0|TV LED 32", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas
+STANDARD|K106|TERSEDIA|500000|1|2|0|0|TV LED 32", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas
+STANDARD|K107|TERSEDIA|500000|1|2|0|0|TV LED 32", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas
+STANDARD|K108|TERSEDIA|500000|1|2|0|0|TV LED 32", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas
+STANDARD|K109|TERSEDIA|500000|1|2|0|0|TV LED 32", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas
+STANDARD|K110|TERSEDIA|500000|1|2|0|0|TV LED 32", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas
+DELUXE|K201|TERSEDIA|1000000|2|2|0|0|TV LED 43", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas, Kulkas mini, Coffee maker, Sofa
+DELUXE|K202|TERSEDIA|1000000|2|2|1|0|TV LED 43", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas, Kulkas mini, Coffee maker, Sofa
+DELUXE|K203|TERSEDIA|1000000|2|2|0|0|TV LED 43", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas, Kulkas mini, Coffee maker, Sofa
+DELUXE|K204|TERSEDIA|1000000|2|2|1|0|TV LED 43", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas, Kulkas mini, Coffee maker, Sofa
+DELUXE|K205|TERSEDIA|1000000|2|2|0|0|TV LED 43", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas, Kulkas mini, Coffee maker, Sofa
+DELUXE|K206|TERSEDIA|1000000|2|2|1|0|TV LED 43", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas, Kulkas mini, Coffee maker, Sofa
+DELUXE|K207|TERSEDIA|1000000|2|2|0|0|TV LED 43", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas, Kulkas mini, Coffee maker, Sofa
+DELUXE|K208|TERSEDIA|1000000|2|2|1|0|TV LED 43", AC, Wi-Fi gratis, Kamar mandi dalam, Air panas, Kulkas mini, Coffee maker, Sofa
+SUITE|K301|TERISI|2500000|3|4|1|1|TV LED 55" x2, AC, Wi-Fi premium, Kamar mandi luas + bathtub, Ruang tamu terpisah, Kulkas, Coffee/Tea maker, Sofa set, Meja kerja, Safe deposit box, Balkon
+SUITE|K302|TERSEDIA|2500000|3|4|1|0|TV LED 55" x2, AC, Wi-Fi premium, Kamar mandi luas + bathtub, Ruang tamu terpisah, Kulkas, Coffee/Tea maker, Sofa set, Meja kerja, Safe deposit box, Balkon
+SUITE|K303|TERSEDIA|2500000|3|4|1|1|TV LED 55" x2, AC, Wi-Fi premium, Kamar mandi luas + bathtub, Ruang tamu terpisah, Kulkas, Coffee/Tea maker, Sofa set, Meja kerja, Safe deposit box, Balkon
+SUITE|K304|TERSEDIA|2500000|3|4|1|0|TV LED 55" x2, AC, Wi-Fi premium, Kamar mandi luas + bathtub, Ruang tamu terpisah, Kulkas, Coffee/Tea maker, Sofa set, Meja kerja, Safe deposit box, Balkon
+SUITE|K305|TERSEDIA|2500000|3|4|1|1|TV LED 55" x2, AC, Wi-Fi premium, Kamar mandi luas + bathtub, Ruang tamu terpisah, Kulkas, Coffee/Tea maker, Sofa set, Meja kerja, Safe deposit box, Balkon
+PRESIDENTIAL|K501|TERSEDIA|5000000|5|6|1|1|TV LED 65" x3, AC, Wi-Fi premium, 2 Kamar tidur master, Jacuzzi & bathtub, Ruang tamu mewah, Ruang makan, Dapur kecil, Kulkas besar, Coffee/Tea maker premium, Home theater, Sofa set mewah, Meja kerja executive, Safe deposit box, Balkon luas dengan pemandangan laut, Butler service 24 jam
+PRESIDENTIAL|K502|TERSEDIA|5000000|5|6|1|1|TV LED 65" x3, AC, Wi-Fi premium, 2 Kamar tidur master, Jacuzzi & bathtub, Ruang tamu mewah, Ruang makan, Dapur kecil, Kulkas besar, Coffee/Tea maker premium, Home theater, Sofa set mewah, Meja kerja executive, Safe deposit box, Balkon luas dengan pemandangan laut, Butler service 24 jam
