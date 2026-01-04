@@ -7,7 +7,7 @@ Program sistem manajemen hotel berbasis console dengan implementasi manual struk
 👨‍💻 Pembuat
 
 Kelompok 8:
-- Muhammad Rivaldi Abduulah (2400018166)
+- Muhammad Rivaldi Abdullah (2400018166)
 - Dede Hermawan (2400018171)
 - Fadhilah Aviyo Destra Kencana (2400018178)
   
